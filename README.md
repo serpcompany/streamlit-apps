@@ -1,6 +1,6 @@
 # Bulk AI Image Generator (Dalle)
 
-Use the free tool 👉 https://ai-bulk-image-generator.streamlit.app/
+👉 [Click here to use the free tool!](https://serp.ly/bulk-dalle-image-generator)
 
 ---
 
